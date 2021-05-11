@@ -1,0 +1,4 @@
+Welcome to the Red Planet.
+Please choose a location to settle:
+	1. Olympus Mons
+	2. Mariner Valley
